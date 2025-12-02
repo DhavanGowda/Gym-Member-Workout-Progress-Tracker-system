@@ -92,6 +92,8 @@ body_measurements
 
 Everything is created using the included schema.sql.
 
+Project Demo Link:https://drive.google.com/file/d/1av8miWz0Vu5sWFKDAGANDgqTuP4i4a5S/view?usp=sharing
+
 ## 🚀 How to Run the Project
 
 #### 1️⃣ Install MySQL & Create Database
@@ -218,3 +220,4 @@ Test endpoints in this order:
 /measurements
 
 /analytics/*
+
