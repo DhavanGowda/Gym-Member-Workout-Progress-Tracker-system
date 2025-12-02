@@ -1,0 +1,22 @@
+2025-12-02 14:53:32,886 - db_add_and_delete_entries - INFO - Added session id=294 member_id=2 date=2025-12-02
+2025-12-02 14:54:19,952 - db_add_and_delete_entries - INFO - Added log id=268 session_id=294 exercise_id=4
+2025-12-02 14:54:33,881 - db_add_and_delete_entries - INFO - Added measurement id=267 member_id=2
+2025-12-02 15:07:38,234 - db_add_and_delete_entries - INFO - Added session id=295 member_id=2 date=2025-12-02
+2025-12-02 15:08:10,141 - db_add_and_delete_entries - INFO - Added log id=269 session_id=295 exercise_id=13
+2025-12-02 15:08:19,865 - db_add_and_delete_entries - INFO - Added measurement id=268 member_id=2
+2025-12-02 15:19:27,872 - db_add_and_delete_entries - INFO - Added member id=47 name=pavan
+2025-12-02 15:21:05,079 - db_add_and_delete_entries - INFO - Updated member id=1 fields=['name=%s', 'age=%s', 'gender=%s', 'joined_date=%s', 'phone=%s', 'email=%s', 'username=%s', 'password=%s']
+2025-12-02 15:41:34,836 - db_add_and_delete_entries - INFO - Updated member id=1 fields=['name=%s', 'age=%s', 'gender=%s', 'joined_date=%s', 'phone=%s', 'email=%s', 'username=%s', 'password=%s']
+2025-12-02 15:44:42,594 - db_add_and_delete_entries - INFO - Updated member id=1 fields=['name=%s', 'age=%s', 'gender=%s', 'joined_date=%s', 'phone=%s', 'email=%s', 'username=%s', 'password=%s']
+2025-12-02 15:47:55,673 - db_add_and_delete_entries - INFO - Added session id=296 member_id=2 date=2025-12-01
+2025-12-02 15:48:33,230 - db_add_and_delete_entries - INFO - Added log id=270 session_id=296 exercise_id=20
+2025-12-02 15:48:53,607 - db_add_and_delete_entries - INFO - Added measurement id=269 member_id=2
+2025-12-02 15:50:58,619 - db_add_and_delete_entries - INFO - Added member id=48 name=Deva
+2025-12-02 15:53:36,140 - db_add_and_delete_entries - INFO - Added session id=297 member_id=2 date=2025-12-02
+2025-12-02 15:54:08,639 - db_add_and_delete_entries - INFO - Added log id=271 session_id=297 exercise_id=16
+2025-12-02 15:54:19,720 - db_add_and_delete_entries - INFO - Added measurement id=270 member_id=2
+2025-12-02 15:56:56,860 - db_add_and_delete_entries - INFO - Added member id=49 name=Bheem
+2025-12-02 15:57:32,276 - db_add_and_delete_entries - INFO - Added session id=298 member_id=6 date=2025-12-02
+2025-12-02 15:58:07,323 - db_add_and_delete_entries - INFO - Added log id=272 session_id=298 exercise_id=27
+2025-12-02 15:58:23,525 - db_add_and_delete_entries - INFO - Added measurement id=271 member_id=6
+2025-12-02 15:59:52,821 - db_add_and_delete_entries - INFO - Updated member id=4 fields=['name=%s', 'age=%s', 'gender=%s', 'joined_date=%s', 'phone=%s', 'email=%s', 'username=%s', 'password=%s']
